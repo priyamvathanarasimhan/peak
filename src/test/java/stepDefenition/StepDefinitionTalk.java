@@ -12,7 +12,7 @@ public class StepDefinitionTalk {
 	
 	    @Given("^User is in homepage$")
 	    public void user_is_in_homepage() throws Throwable {
-	    	System.out.println("hi");
+	    	
 	       }
 
 	    @When("^user enters \"([^\"]*)\" , \"([^\"]*)\" , \"([^\"]*)\" , \"([^\"]*)\" , \"([^\"]*)\" $")
