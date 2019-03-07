@@ -22,14 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/DELL123/Downloads/junit-3.8.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DELL123/Downloads/gherkin-2.12.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DELL123/Downloads/cucumber-jvm-deps-1.0.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DELL123/Downloads/cucumber-html-0.2.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DELL123/Downloads/cucumber-core-4.2.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DELL123/Downloads/cucumber-junit-1.2.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DELL123/Downloads/cucumber-java-1.2.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/DELL123/Downloads/cucumber-core-1.2.5.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
